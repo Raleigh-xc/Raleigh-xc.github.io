@@ -7,6 +7,86 @@
     <meta name="description" content="Raleigh-xc.GitHub.io : Raleigh-xc">
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    
+    <meta charset="utf-8" />
+		<style>
+			#box{
+				width: 200px;
+				height: 200px;
+				border: 1px solid red;
+			}
+			
+			#con{
+				width: 200px;
+				height: 200px;
+				border: 1px solid blue;
+				/*list-style: none;*/
+				padding: 0;
+				margin: 0;
+			}
+			
+			li{
+				width: 200px;
+				height: 30px;
+				margin: 8px 0;
+				background: #ccc;
+				line-height: 30px;
+				text-align: center;
+				list-style: none;
+			}
+		</style>
+		<script>
+			window.onload=function(){
+				var box=document.getElementById("box");
+				var con=document.getElementById("con");
+				var lis=document.getElementsByTagName("li");
+				for (var i=0;i<lis.length;i++){
+					lis[i].draggable=true;
+					lis[i].flag=false;
+					lis[i].ondragstart=function(){
+						this.flag=true;
+					}
+					lis[i].ondragend=function(){
+						this.flag=false;
+					}
+				}
+				box.ondragenter=function(e){
+					e.preventDefault();
+				}
+				box.ondragover=function(e){
+					e.preventDefault();
+				}
+				box.ondragleave=function(e){
+					e.preventDefault();
+				}
+				box.ondrop=function(e){
+					for(var i=0;i<lis.length;i++){
+						if(lis[i].flag){
+							box.appendChild(lis[i]);
+						}
+					}
+					e.preventDefault();
+				}
+				
+				con.ondragenter=function(e){
+					e.preventDefault();
+				}
+				con.ondragover=function(e){
+					e.preventDefault();
+				}
+				con.ondragleave=function(e){
+					e.preventDefault();
+				}
+				con.ondrop=function(e){
+					for(var i=0;i<lis.length;i++){
+						if(lis[i].flag){
+							con.appendChild(lis[i]);
+						}
+					}
+					e.preventDefault();
+				}
+			}
+		</script>
 
     <title>Raleigh-xc.GitHub.io</title>
   </head>
@@ -34,6 +114,16 @@ Record my growth.<br></p>
 <a id="thanks" class="anchor" href="#thanks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Thanks.</h1>
       </section>
     </div>
+    
+    <h3>RECORD 1</h3>
+		<div id="box"></div>
+		<ul id="con">
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>four</li>
+			<li>five</li>
+		</ul>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
