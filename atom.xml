@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-23T13:05:16.543Z</updated>
+  <updated>2016-01-24T04:58:18.609Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,14 +15,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[My New Post]]></title>
-    <link href="http://yoursite.com/2016/01/23/My-New-Post/"/>
-    <id>http://yoursite.com/2016/01/23/My-New-Post/</id>
-    <published>2016-01-23T13:05:16.000Z</published>
-    <updated>2016-01-23T13:05:16.543Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[20160124]]></title>
+    <link href="http://yoursite.com/2016/01/24/20160124/"/>
+    <id>http://yoursite.com/2016/01/24/20160124/</id>
+    <published>2016-01-24T04:42:40.000Z</published>
+    <updated>2016-01-24T04:58:18.609Z</updated>
+    <content type="html"><![CDATA[<p>北风辣个吹啊，反正我今天是不出去了。<br>刚写了几个字发现是乱码。<br>OK，设置MD文件的编码格式为UTF-8。</p>
+<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭起来了还是留点痕迹就好。<br>排版也就这样了，等之后改进吧。</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>北风辣个吹啊，反正我今天是不出去了。<br>刚写了几个字发现是乱码。<br>OK，设置MD文件的编码格式为UTF-8。</p>
+<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭起来了还是留点痕迹就好。<br>排版也就这样了，等之后改进吧]]>
     </summary>
     
   </entry>
@@ -31,8 +34,8 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://yoursite.com/2016/01/23/hello-world/"/>
     <id>http://yoursite.com/2016/01/23/hello-world/</id>
-    <published>2016-01-23T12:37:04.651Z</published>
-    <updated>2016-01-23T12:37:04.651Z</updated>
+    <published>2016-01-23T15:46:08.385Z</published>
+    <updated>2016-01-23T15:46:08.385Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -46,6 +49,21 @@
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
     </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://yoursite.com/2016/01/23/My-New-Post/"/>
+    <id>http://yoursite.com/2016/01/23/My-New-Post/</id>
+    <published>2016-01-23T13:05:16.000Z</published>
+    <updated>2016-01-24T04:44:21.415Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="TEST" scheme="http://yoursite.com/tags/TEST/"/>
     
   </entry>
   
