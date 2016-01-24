@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-24T04:58:18.609Z</updated>
+  <updated>2016-01-24T05:07:08.084Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,13 +19,13 @@
     <link href="http://yoursite.com/2016/01/24/20160124/"/>
     <id>http://yoursite.com/2016/01/24/20160124/</id>
     <published>2016-01-24T04:42:40.000Z</published>
-    <updated>2016-01-24T04:58:18.609Z</updated>
+    <updated>2016-01-24T05:07:08.084Z</updated>
     <content type="html"><![CDATA[<p>北风辣个吹啊，反正我今天是不出去了。<br>刚写了几个字发现是乱码。<br>OK，设置MD文件的编码格式为UTF-8。</p>
-<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭起来了还是留点痕迹就好。<br>排版也就这样了，等之后改进吧。</p>
+<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭了一半还是留点痕迹就好。<br>排版也就这样了，等之后改进吧。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>北风辣个吹啊，反正我今天是不出去了。<br>刚写了几个字发现是乱码。<br>OK，设置MD文件的编码格式为UTF-8。</p>
-<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭起来了还是留点痕迹就好。<br>排版也就这样了，等之后改进吧]]>
+<p>本来计划今天是研究一下MAKEDOWN语法的，<br>突然有别的要做，想想既然搭了一半还是留点痕迹就好。<br>排版也就这样了，等之后改进吧]]>
     </summary>
     
   </entry>
