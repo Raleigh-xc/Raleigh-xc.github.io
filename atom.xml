@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-24T08:33:05.565Z</updated>
+  <updated>2016-01-25T13:01:34.955Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新鲜感来源于对新事物的探索]]></title>
+    <link href="http://yoursite.com/2016/01/25/%E6%96%B0%E9%B2%9C%E6%84%9F%E6%9D%A5%E6%BA%90%E4%BA%8E%E5%AF%B9%E6%96%B0%E4%BA%8B%E7%89%A9%E7%9A%84%E6%8E%A2%E7%B4%A2/"/>
+    <id>http://yoursite.com/2016/01/25/新鲜感来源于对新事物的探索/</id>
+    <published>2016-01-25T12:23:09.000Z</published>
+    <updated>2016-01-25T13:01:34.955Z</updated>
+    <content type="html"><![CDATA[<h2 id="u6807_u9898"><a href="#u6807_u9898" class="headerlink" title="标题"></a>标题</h2><h1 id="u4E00_u7EA7_u6807_u9898"><a href="#u4E00_u7EA7_u6807_u9898" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="u4E8C_u7EA7_u6807_u9898"><a href="#u4E8C_u7EA7_u6807_u9898" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="u4E09_u7EA7_u6807_u9898"><a href="#u4E09_u7EA7_u6807_u9898" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="u56DB_u7EA7_u6807_u9898"><a href="#u56DB_u7EA7_u6807_u9898" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="u4E94_u7EA7_u6807_u9898"><a href="#u4E94_u7EA7_u6807_u9898" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="u516D_u7EA7_u6807_u9898"><a href="#u516D_u7EA7_u6807_u9898" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="u5217_u8868"><a href="#u5217_u8868" class="headerlink" title="列表"></a>列表</h2><h4 id="u65E0_u5E8F_u5217_u8868"><a href="#u65E0_u5E8F_u5217_u8868" class="headerlink" title="无序列表"></a>无序列表</h4><ul>
+<li>1</li>
+<li>2</li>
+<li>3<h4 id="u6709_u5E8F_u5217_u8868"><a href="#u6709_u5E8F_u5217_u8868" class="headerlink" title="有序列表"></a>有序列表</h4></li>
+</ul>
+<ol>
+<li>1</li>
+<li>2</li>
+<li>3<h2 id="u5F15_u7528"><a href="#u5F15_u7528" class="headerlink" title="引用"></a>引用</h2><blockquote>
+<p>就是这样</p>
+</blockquote>
+</li>
+</ol>
+<h2 id="u56FE_u7247_u4E0E_u94FE_u63A5"><a href="#u56FE_u7247_u4E0E_u94FE_u63A5" class="headerlink" title="图片与链接"></a>图片与链接</h2><h4 id="u94FE_u63A5"><a href="#u94FE_u63A5" class="headerlink" title="链接"></a>链接</h4><p><a href="http://raleigh-xc.github.io/" target="_blank" rel="external">Raleigh-xc</a></p>
+<h4 id="u56FE_u7247_28_u4E0D_u6F14_u793A_u4E86_29"><a href="#u56FE_u7247_28_u4E0D_u6F14_u793A_u4E86_29" class="headerlink" title="图片(不演示了)"></a>图片(不演示了)</h4><p><code>![Raleigh-xc](http://raleigh-xc.github.io/)</code></p>
+<h2 id="u7C97_u4F53_u4E0E_u659C_u4F53"><a href="#u7C97_u4F53_u4E0E_u659C_u4F53" class="headerlink" title="粗体与斜体"></a>粗体与斜体</h2><p><strong>粗体</strong><br><em>斜体</em></p>
+<h2 id="u8868_u683C"><a href="#u8868_u683C" class="headerlink" title="表格"></a>表格</h2><table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u4EE3_u7801"><a href="#u4EE3_u7801" class="headerlink" title="代码"></a>代码</h2><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">table</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">tr</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">td</span>&gt;</span>Foo<span class="tag">&lt;/<span class="title">td</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="u5206_u5272_u7EBF"><a href="#u5206_u5272_u7EBF" class="headerlink" title="分割线"></a>分割线</h2><hr>
+<h2 id="u5C0F_u7ED3"><a href="#u5C0F_u7ED3" class="headerlink" title="小结"></a>小结</h2><p>nothing</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="u6807_u9898"><a href="#u6807_u9898" class="headerlink" title="标题"></a>标题</h2><h1 id="u4E00_u7EA7_u6807_u9898"><a href="#u4E00_u7EA7_]]>
+    </summary>
+    
+      <category term="MARKDOWN" scheme="http://yoursite.com/tags/MARKDOWN/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[20160124]]></title>
