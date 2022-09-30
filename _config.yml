@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Raleigh-xc/Raleigh-xc.github.io
-  branch: master
+  branch: gh-pages
